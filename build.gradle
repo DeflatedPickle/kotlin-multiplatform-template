@@ -113,6 +113,13 @@ kotlin {
 
 				// https://github.com/consoleau/kassava
 				// implementation "com.github.consoleau:kassava:v2.1.0"
+
+				// https://github.com/spoptchev/kotlin-preconditions
+				implementation "com.github.spoptchev:kotlin-preconditions:$preconditionsVersion"
+
+				implementation "me.sargunvohra.lib:ktunits:$ktunitsVersion"
+
+				implementation "com.github.holgerbrandl:jsonbuilder:$jsonBuilderVersion"
 			}
 		}
 

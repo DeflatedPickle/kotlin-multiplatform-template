@@ -1,4 +1,4 @@
-package com.deflatedpickle.kmpt
+package com.example
 
 fun main() {
     println("running")
